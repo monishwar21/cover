@@ -48,12 +48,12 @@ book.html
             <hr style="color: white">
         </div>
         <div class="title">
-            <h1>Rise<br>Beyond<br>Limits</h1></div>
+            <h1>Artificial<br>Intelligence</h1></div>
         <div class="subtitle">
-            "A guide to breaking barriers and becoming unstoppable.''   
+            "A guide to develop of AI skill"   
         </div>
         <div class="subtitle">
-            Top Selling Book To Build Motivation Among The Younger Ones
+            Top Selling Book To improve our AI skills
         </div>
         <div class="mypic">
             <img src="me.jpg" width="100" height="120">
